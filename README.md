@@ -16,8 +16,8 @@ Bu repository, İşletim Sistemleri dersi kapsamında kullanılan haftalık ders
 | 3 | Süreçler (Processes) | [PDF Sunumu](hafta-03/Hafta3_Surecler_Surec_Islemleri_ve_Surecler_Arasi_Iletisim.pdf) |
 | 4 | İş Parçacıkları (Threads) | [PDF Sunumu](hafta-04/Hafta4_Is_Parcaciklari_ve_Cok_Cekirdekli_Programlama.pdf) |
 | 5 | CPU Zamanlama | [PDF Sunumu](hafta-05/Hafta5_CPU_Zamanlama.pdf) |
-| 6 | Süreç Eşzamanlaması | Hazırlanıyor |
-| 7 | Eşzamanlama Problemleri | Hazırlanıyor |
+| 6 | Süreç Eşzamanlaması | [PDF Sunumu](hafta-06/Hafta6_Surec_Senkronizasyonu_I_Kritik_Bolge_Mutex_ve_Semafor.pdf) |
+| 7 | Eşzamanlama Problemleri | [PDF Sunumu](hafta-07/Hafta7_Senkronizasyon_II_Klasik_Problemler_Monitorler_ve_Gercek_Sistemler.pdf) |
 | 8 | Ara Sınav / Genel Tekrar | Hazırlanıyor |
 | 9 | Ana Bellek Yönetimi | Hazırlanıyor |
 | 10 | Sanal Bellek | Hazırlanıyor |
